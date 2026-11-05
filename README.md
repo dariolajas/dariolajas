@@ -18,7 +18,7 @@ Mi misión es desarrollar soluciones que impulsen la **eficiencia agrícola**, l
 
 | Categoría | Tecnologías |
 |------------|--------------|
-| **Lenguajes de programación** | C#, Java, Python, PHP, C++, JavaScript |
+| **Lenguajes de programación** | C#, Java, Python, PHP, C++, JavaScript, Rust |
 | **Bases de datos** | MySQL, PostgreSQL, MariaDB, SQL Server, Oracle, SQLite |
 | **Desarrollo web** | HTML5, CSS3, JavaScript |
 | **Hardware y automatización** | Arduino, Electrónica digital, Sensores, IoT |
@@ -32,7 +32,8 @@ Mi misión es desarrollar soluciones que impulsen la **eficiencia agrícola**, l
 - **Inteligencia Artificial** aplicada al agro  
 - **Automatización** de procesos agrícolas  
 - **Economía circular** y **biotecnología aplicada**  
-- Diseño de **políticas públicas tecnológicas**  
+- Diseño de **políticas públicas tecnológicas**
+- Gestion empresarial. 
 - **Conservación de abejas nativas (meliponicultura)** 🐝  
 
 ---
